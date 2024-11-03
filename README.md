@@ -44,7 +44,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-![snake gif](https://github.com/0llrayll0/0llrayll0/blob/output/github-contribution-grid-snake.svg)
