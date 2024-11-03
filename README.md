@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://creajr.crea-pr.org.br/u/posts/15/inteligencia-artificial-ia-quais-as-suas-aplicacoes-na-engenharia-imagem-large.png"  />
+<img align="right" height="180" src="https://creajr.crea-pr.org.br/u/posts/15/inteligencia-artificial-ia-quais-as-suas-aplicacoes-na-engenharia-imagem-large.png"  />
 
 ###
 
