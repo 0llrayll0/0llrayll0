@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://t.ctcdn.com.br/AD7TBmA94FXeu_izgtM6k7X9qOw=/1024x576/smart/i743626.jpeg"  />
+<img align="right" height="150" src="https://creajr.crea-pr.org.br/u/posts/15/inteligencia-artificial-ia-quais-as-suas-aplicacoes-na-engenharia-imagem-large.png"  />
 
 ###
 
