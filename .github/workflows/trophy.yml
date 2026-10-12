@@ -1,3 +1,4 @@
+```yaml
 name: Generate Trophy Card
 
 on:
@@ -22,11 +23,11 @@ jobs:
       - name: Generate trophy.svg
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         env:
-          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN1: ${{ secrets.GITHUBKEY1 }}
         with:
           username: 0llrarll0
           file: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUBKEY1 }}
           theme: dracula
           max-rows: 1
           margin-width: 8
@@ -40,4 +41,5 @@ jobs:
           target_branch: trophy-output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUBKEY1 }}
+```
