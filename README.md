@@ -5,7 +5,7 @@
 <p align="left">
 Software Developer from Brazil 🇧🇷 — Building AI-powered systems, automation tools and intelligent software.
 
-Creator of **[Luna AI](https://github.com/0llrayll0)** 🌙
+Creator of **[Luna AI](https://github.com/luna-cli-ai)** 🌙
 
 I work across <b>artificial intelligence</b>, <b>automation</b>, <b>computer vision</b> and <b>embedded systems</b>, exploring the intersection of software and hardware.
 
