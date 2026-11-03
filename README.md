@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  Student from Brazil 🇧🇷 — I build things for <b>arduino</b>, <b>mobile</b> , <b>hardware</b> and <b>electronic</b>,
+  Student from Brazil 🇧🇷 — I build things for <b>web</b>, <b>mobile</b> and <b>hardware</b>,
   and I like when the two meet: an app that talks to a board, a model that runs on a Pi.
   Currently digging into <b>machine learning</b> and <b>embedded systems</b>.
 </p>
@@ -47,7 +47,10 @@
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="GraphQL" />
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="AWS" />
+&nbsp;&nbsp;<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
+</picture>
 
 </details>
 
