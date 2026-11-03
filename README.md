@@ -87,12 +87,6 @@ Python · TypeScript · React · FastAPI · Kotlin Multiplatform · Firebase · 
 
 ---
 
-### 📈 GitHub stats
-
-![Raul's GitHub stats](https://stats.justsong.cn/api/github?username=0llrayll0)
-
----
-
 ### 📫 Find me
 
 <a href="https://discord.com/users/1195755632100376578" target="_blank">
