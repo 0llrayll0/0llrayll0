@@ -3,9 +3,13 @@
 <img align="right" height="150" src="https://media.tenor.com/3s9rEbpRr5wAAAAM/niko-oneshot.gif" alt="Niko from OneShot juggling a ball of yarn" />
 
 <p align="left">
-  Student from Brazil 🇧🇷 — I build things for <b>web</b>, <b>mobile</b> and <b>hardware</b>,
-  and I like when the two meet: an app that talks to a board, a model that runs on a Pi.
-  Currently digging into <b>machine learning</b> and <b>embedded systems</b>.
+Software Developer from Brazil 🇧🇷 — Building AI-powered systems, automation tools and intelligent software.
+
+Creator of **[Luna AI](https://github.com/0llrayll0)** 🌙
+
+I work across <b>artificial intelligence</b>, <b>automation</b>, <b>computer vision</b> and <b>embedded systems</b>, exploring the intersection of software and hardware.
+
+Currently focused on <b>local AI</b>, <b>machine learning</b> and <b>intelligent agent architectures</b>.
 </p>
 
 <br clear="right" />
