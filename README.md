@@ -76,6 +76,7 @@
 
 </details>
 ---
+
 ### ⭐ Featured projects
 
 | Project | What it does | Stack |
