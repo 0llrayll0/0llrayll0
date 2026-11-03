@@ -78,13 +78,6 @@
 
 ---
 
-### 📈 GitHub stats
-
-![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=0llrayll0&show_icons=true&hide_border=true&rankings_icon=false)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0llrayll0&layout=compact&hide_border=true)
-
----
-
 ### 📫 Find me
 
 <a href="https://discord.com/users/1195755632100376578" target="_blank">
