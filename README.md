@@ -75,6 +75,7 @@
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
 
 </details>
+
 ---
 
 ### ⭐ Featured projects
