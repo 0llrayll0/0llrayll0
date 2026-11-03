@@ -14,7 +14,7 @@ Currently focused on <b>local AI</b>, <b>machine learning</b> and <b>intelligent
 
 <br clear="right" />
 
-Python · TypeScript · React · FastAPI · Kotlin Multiplatform · Firebase · Docker · C++ (Arduino)
+Python · C++ · TypeScript · React · FastAPI · Flask · PyTorch · OpenCV · SQLModel · SQLite · PostgreSQL · Redis · Docker · Linux · Arduino
 
 ---
 
