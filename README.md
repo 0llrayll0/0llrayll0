@@ -1,10 +1,6 @@
 <h2 align="left">Hi 👋! My name is Raul</h2>
 
-###
-
 <img align="right" height="150" src="https://media.tenor.com/3s9rEbpRr5wAAAAM/niko-oneshot.gif" alt="Niko from OneShot juggling a ball of yarn" />
-
-###
 
 <p align="left">
   Student from Brazil 🇧🇷 — I build things for <b>web</b>, <b>mobile</b> and <b>hardware</b>,
@@ -13,6 +9,19 @@
 </p>
 
 <br clear="right" />
+
+Python · TypeScript · React · FastAPI · Kotlin Multiplatform · Firebase · Docker · C++ (Arduino)
+
+---
+
+### ⭐ Featured projects
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [luna-desk-cat](https://github.com/0llrayll0/luna-desk-cat) | Gatinha em Arduino + OLED que reage ao seu terminal: digita o comando que está rodando, comemora no `exit 0`, sofre no erro e mostra CPU/RAM/disco/temperatura em barras | Python · C++ · Shell |
+| [LOKI](https://github.com/0llrayll0/LOKI) | Plataforma de inteligência preditiva de séries temporais — envie um CSV e gere previsões, detecte anomalias, simule cenários e avalie riscos sem escrever código | Python · FastAPI · React |
+| [Pandora-architect](https://github.com/0llrayll0/Pandora-architect) | Análise estática **local** de repositórios: métricas de código, mapa de dependências, ciclos arquiteturais e um "Arquiteto IA" (Ollama, OpenAI, Claude ou Gemini) — sem telemetria | Python · FastAPI · React |
+| [afilaxy-kmm](https://github.com/0llrayll0/afilaxy-kmm) · colaboração | Rede P2P de emergências em tempo real: aciona o app e voluntários num raio de 250 m respondem, com chat, check-ins de bem-estar e score de risco. Android publicado e iOS no TestFlight | Kotlin · KMM · Firebase |
 
 ---
 
@@ -78,19 +87,10 @@
 
 ---
 
-### ⭐ Featured projects
+### 📈 GitHub stats
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| [luna-desk-cat](...) | Gatinha em Arduino + OLED que reage ao seu terminal: digita o comando
-  que está rodando, comemora no `exit 0`, sofre no erro e mostra CPU/RAM/disco/temperatura em barras | Python · C++ · Shell |
-| [LOKI](...) | Plataforma de inteligência preditiva de séries temporais — envie um CSV e gere
-  previsões, detecte anomalias, simule cenários e avalie riscos sem escrever código | Python · FastAPI · React |
-| [Pandora-architect](...) | Análise estática **local** de repositórios: métricas de código, mapa de
-  dependências, ciclos arquiteturais e um "Arquiteto IA" (Ollama, OpenAI, Claude ou Gemini) — sem telemetria | Python · FastAPI · React |
-| [afilaxy-kmm](...) · colaboração | Rede P2P de emergências em tempo real: aciona o app e voluntários
-  num raio de 250 m respondem, com chat, check-ins de bem-estar e score de risco. Android publicado e iOS no TestFlight | Kotlin · KMM · Firebase |
-  
+![Raul's GitHub stats](https://stats.justsong.cn/api/github?username=0llrayll0)
+
 ---
 
 ### 📫 Find me
