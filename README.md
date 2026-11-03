@@ -88,6 +88,7 @@
   dependências, ciclos arquiteturais e um "Arquiteto IA" (Ollama, OpenAI, Claude ou Gemini) — sem telemetria | Python · FastAPI · React |
 | [afilaxy-kmm](...) · colaboração | Rede P2P de emergências em tempo real: aciona o app e voluntários
   num raio de 250 m respondem, com chat, check-ins de bem-estar e score de risco. Android publicado e iOS no TestFlight | Kotlin · KMM · Firebase |
+  
 ---
 
 ### 📫 Find me
