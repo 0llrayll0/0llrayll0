@@ -75,7 +75,19 @@
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
 
 </details>
+---
+### ⭐ Featured projects
 
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [luna-desk-cat](...) | Gatinha em Arduino + OLED que reage ao seu terminal: digita o comando
+  que está rodando, comemora no `exit 0`, sofre no erro e mostra CPU/RAM/disco/temperatura em barras | Python · C++ · Shell |
+| [LOKI](...) | Plataforma de inteligência preditiva de séries temporais — envie um CSV e gere
+  previsões, detecte anomalias, simule cenários e avalie riscos sem escrever código | Python · FastAPI · React |
+| [Pandora-architect](...) | Análise estática **local** de repositórios: métricas de código, mapa de
+  dependências, ciclos arquiteturais e um "Arquiteto IA" (Ollama, OpenAI, Claude ou Gemini) — sem telemetria | Python · FastAPI · React |
+| [afilaxy-kmm](...) · colaboração | Rede P2P de emergências em tempo real: aciona o app e voluntários
+  num raio de 250 m respondem, com chat, check-ins de bem-estar e score de risco. Android publicado e iOS no TestFlight | Kotlin · KMM · Firebase |
 ---
 
 ### 📫 Find me
