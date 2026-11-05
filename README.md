@@ -11,7 +11,7 @@
 
 <br clear="right" />
 
-Python · TypeScript · React · FastAPI · C++ (Arduino)
+Python · TypeScript · React · FastAPI · C++ (Arduino) · C#
 
 ---
 
@@ -48,7 +48,7 @@ A separate scikit-learn PR ([#35305](https://github.com/scikit-learn/scikit-lear
 ### 🛠 Tech stack
 
 **Core Languages**  
-Python · C++ · TypeScript
+Python · C++ · TypeScript · C#
 
 **Frameworks & Backend**  
 FastAPI · Flask · React
